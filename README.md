@@ -21,7 +21,7 @@ To get started with the ChatGPT Realtime Chat Application, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/sachindolase/chatgpt.app
 ```
 
 2. Install dependencies for both the frontend and backend:
